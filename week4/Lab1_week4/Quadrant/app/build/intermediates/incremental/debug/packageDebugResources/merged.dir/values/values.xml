@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Quadrant</string>
+    <string name="first_quadrant_description">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="first_quadrant_title">Text composable</string>
+    <string name="fourth_quadrant_description">A layout composable that places its children in a vertical sequence.</string>
+    <string name="fourth_quadrant_title">Column composable</string>
+    <string name="second_quadrant_description">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="second_quadrant_title">Image composable</string>
+    <string name="third_quadrant_description">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="third_quadrant_title">Row composable</string>
+    <style name="Theme.Quadrant" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
